@@ -21,7 +21,7 @@ $pass = 'YOUR DB PASSWORD';
 
 ### Usage
 
-**Image Upload:** Ensure images and hotspot data are uploaded through upload.php.
+**Image Upload:** Ensure images and hotspot data are uploaded through setup.php.
 
 **Navigation Test:** Users click on specific parts of the images based on given instructions.
 
