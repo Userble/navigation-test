@@ -59,8 +59,8 @@ $images = $stmt->fetchAll(PDO::FETCH_ASSOC);
 
 // Check if images are available
 if (empty($images)) {
-    // Redirect to upload.php if no images are found
-    header("Location: upload.php");
+    // Redirect to setup.php if no images are found
+    header("Location: setup.php");
     exit;
 }
 
